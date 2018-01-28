@@ -14,3 +14,10 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 Source : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
 
 Data can be obtained from https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+# Pearson Correlation of Economics Indicator
+![alt tag](https://github.com/faizalazman/Bank-Telemarketing-Classification/blob/master/PearsonCorrelationofEconomicsIndicator.png)
+
+# All Features
+![alt tag](https://github.com/faizalazman/Bank-Telemarketing-Classification/blob/master/PearsonCorrelationofallfeature.png)
+
